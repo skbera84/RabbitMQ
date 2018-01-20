@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516350844216_0" label="rabbitmq-training-parent" name="rabbitmq-training-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/quotations" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-java-message-sender-receiver-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rabbitmq-training-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/10-spring-amqp-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/09-security-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08a-benchmarking-configurations-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-reliable-message-flow-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-using-routing-capabilities-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-ha-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08b-preventing-broker-accepting-traffic-start" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516351495297_1" label="Window Working Set" name="Aggregate for window 1516351495297"/>
+</workingSetManager>
